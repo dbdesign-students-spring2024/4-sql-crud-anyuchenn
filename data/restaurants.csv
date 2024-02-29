@@ -1,0 +1,1001 @@
+id,Category,Price_tier,Neighborhood,Opening_hours,Average_rating,Good_for_kids
+1,Italian,Expensive,Manhattan,8am-10pm,2.7,true
+2,Chinese,Cheap,Queens,8am-10pm,1.4,true
+3,Mexican,Expensive,Queens,8am-10pm,4.9,false
+4,American,Cheap,Queens,8am-10pm,4.9,false
+5,American,Medium,Staten Island,8am-10pm,1.6,false
+6,Mexican,Medium,Queens,8am-10pm,4.2,true
+7,Chinese,Cheap,Brooklyn,8am-10pm,4.0,true
+8,Chinese,Medium,Manhattan,8am-10pm,3.5,false
+9,Chinese,Cheap,Staten Island,8am-10pm,3.0,true
+10,American,Medium,Manhattan,8am-10pm,4.3,true
+11,Italian,Expensive,Queens,8am-10pm,1.9,false
+12,American,Medium,Manhattan,8am-10pm,4.6,true
+13,Italian,Cheap,Queens,8am-10pm,3.3,false
+14,Italian,Expensive,Queens,8am-10pm,1.9,false
+15,Japanese,Medium,Bronx,8am-10pm,3.5,false
+16,American,Expensive,Brooklyn,8am-10pm,3.1,true
+17,Italian,Medium,Brooklyn,8am-10pm,3.7,true
+18,American,Expensive,Queens,8am-10pm,1.9,false
+19,Chinese,Cheap,Manhattan,8am-10pm,3.5,true
+20,Mexican,Expensive,Queens,8am-10pm,4.3,true
+21,Mexican,Expensive,Queens,8am-10pm,2.3,false
+22,American,Medium,Manhattan,8am-10pm,4.6,true
+23,Italian,Cheap,Bronx,8am-10pm,1.8,true
+24,Mexican,Medium,Brooklyn,8am-10pm,1.0,false
+25,Italian,Cheap,Brooklyn,8am-10pm,4.2,true
+26,Chinese,Medium,Queens,8am-10pm,4.2,false
+27,Mexican,Expensive,Staten Island,8am-10pm,4.7,false
+28,Mexican,Medium,Queens,8am-10pm,3.6,false
+29,Japanese,Medium,Staten Island,8am-10pm,4.7,false
+30,Chinese,Expensive,Staten Island,8am-10pm,4.3,true
+31,Chinese,Medium,Staten Island,8am-10pm,1.6,true
+32,Chinese,Medium,Manhattan,8am-10pm,4.9,true
+33,Mexican,Medium,Manhattan,8am-10pm,2.6,false
+34,Chinese,Medium,Queens,8am-10pm,2.2,true
+35,Chinese,Cheap,Manhattan,8am-10pm,1.9,false
+36,American,Expensive,Staten Island,8am-10pm,3.3,false
+37,Japanese,Medium,Bronx,8am-10pm,4.6,true
+38,Chinese,Medium,Staten Island,8am-10pm,4.5,false
+39,Japanese,Expensive,Brooklyn,8am-10pm,3.9,true
+40,Italian,Expensive,Bronx,8am-10pm,1.5,false
+41,Italian,Expensive,Bronx,8am-10pm,2.9,true
+42,Chinese,Medium,Brooklyn,8am-10pm,2.3,true
+43,Japanese,Medium,Bronx,8am-10pm,4.3,false
+44,Japanese,Medium,Brooklyn,8am-10pm,1.4,true
+45,Chinese,Cheap,Queens,8am-10pm,5.0,false
+46,Chinese,Expensive,Manhattan,8am-10pm,1.9,false
+47,Chinese,Expensive,Bronx,8am-10pm,1.4,true
+48,American,Expensive,Manhattan,8am-10pm,1.8,true
+49,Mexican,Medium,Brooklyn,8am-10pm,1.5,true
+50,Chinese,Expensive,Bronx,8am-10pm,4.4,false
+51,Japanese,Medium,Queens,8am-10pm,2.5,true
+52,Chinese,Cheap,Staten Island,8am-10pm,3.7,false
+53,Chinese,Medium,Bronx,8am-10pm,3.4,true
+54,Mexican,Medium,Staten Island,8am-10pm,2.0,false
+55,Italian,Medium,Staten Island,8am-10pm,4.5,true
+56,Italian,Expensive,Queens,8am-10pm,2.6,false
+57,Japanese,Medium,Brooklyn,8am-10pm,4.9,true
+58,Chinese,Medium,Bronx,8am-10pm,4.8,true
+59,Chinese,Expensive,Brooklyn,8am-10pm,3.3,true
+60,Japanese,Medium,Staten Island,8am-10pm,3.5,false
+61,Mexican,Expensive,Manhattan,8am-10pm,1.7,true
+62,Chinese,Expensive,Brooklyn,8am-10pm,3.5,true
+63,Italian,Medium,Staten Island,8am-10pm,4.4,true
+64,Chinese,Medium,Manhattan,8am-10pm,3.2,false
+65,Japanese,Cheap,Brooklyn,8am-10pm,1.3,false
+66,Japanese,Medium,Bronx,8am-10pm,2.3,false
+67,Italian,Medium,Staten Island,8am-10pm,1.9,true
+68,Italian,Cheap,Brooklyn,8am-10pm,3.0,false
+69,Italian,Cheap,Staten Island,8am-10pm,1.3,false
+70,Japanese,Expensive,Staten Island,8am-10pm,1.0,true
+71,Chinese,Medium,Brooklyn,8am-10pm,4.4,false
+72,American,Medium,Queens,8am-10pm,1.9,false
+73,Japanese,Medium,Brooklyn,8am-10pm,4.3,true
+74,Italian,Medium,Bronx,8am-10pm,5.0,true
+75,Mexican,Medium,Brooklyn,8am-10pm,1.3,false
+76,Mexican,Medium,Manhattan,8am-10pm,3.2,true
+77,Japanese,Expensive,Manhattan,8am-10pm,4.3,true
+78,Japanese,Expensive,Brooklyn,8am-10pm,1.7,true
+79,American,Cheap,Manhattan,8am-10pm,4.3,false
+80,Chinese,Cheap,Queens,8am-10pm,2.0,true
+81,American,Medium,Manhattan,8am-10pm,2.3,false
+82,Italian,Cheap,Manhattan,8am-10pm,4.1,false
+83,Japanese,Expensive,Brooklyn,8am-10pm,2.0,false
+84,Japanese,Cheap,Staten Island,8am-10pm,2.2,false
+85,American,Medium,Brooklyn,8am-10pm,1.3,true
+86,Chinese,Medium,Staten Island,8am-10pm,3.9,true
+87,American,Expensive,Queens,8am-10pm,3.8,true
+88,Japanese,Cheap,Staten Island,8am-10pm,3.2,false
+89,Mexican,Cheap,Brooklyn,8am-10pm,4.8,false
+90,Mexican,Expensive,Staten Island,8am-10pm,3.2,false
+91,Mexican,Medium,Staten Island,8am-10pm,2.9,true
+92,Mexican,Expensive,Brooklyn,8am-10pm,2.7,true
+93,American,Expensive,Staten Island,8am-10pm,1.7,true
+94,Mexican,Expensive,Queens,8am-10pm,3.1,true
+95,Japanese,Expensive,Bronx,8am-10pm,2.8,true
+96,Italian,Medium,Queens,8am-10pm,4.3,true
+97,American,Medium,Manhattan,8am-10pm,3.5,true
+98,Japanese,Cheap,Queens,8am-10pm,1.2,true
+99,Japanese,Cheap,Brooklyn,8am-10pm,4.7,true
+100,American,Medium,Queens,8am-10pm,3.8,false
+101,Chinese,Cheap,Bronx,8am-10pm,1.2,true
+102,Mexican,Cheap,Manhattan,8am-10pm,3.5,true
+103,Italian,Medium,Brooklyn,8am-10pm,3.8,false
+104,Japanese,Expensive,Bronx,8am-10pm,3.4,true
+105,Chinese,Expensive,Queens,8am-10pm,1.8,true
+106,Chinese,Cheap,Staten Island,8am-10pm,4.2,false
+107,American,Cheap,Bronx,8am-10pm,1.0,false
+108,Italian,Cheap,Manhattan,8am-10pm,4.8,true
+109,Italian,Expensive,Manhattan,8am-10pm,2.3,true
+110,Mexican,Cheap,Manhattan,8am-10pm,3.7,false
+111,Japanese,Medium,Queens,8am-10pm,4.1,false
+112,Japanese,Expensive,Bronx,8am-10pm,2.9,false
+113,American,Medium,Queens,8am-10pm,3.4,true
+114,Chinese,Medium,Manhattan,8am-10pm,2.0,true
+115,Chinese,Expensive,Staten Island,8am-10pm,1.7,true
+116,Chinese,Medium,Queens,8am-10pm,4.3,true
+117,Chinese,Cheap,Queens,8am-10pm,2.6,false
+118,American,Cheap,Brooklyn,8am-10pm,3.2,true
+119,Chinese,Medium,Manhattan,8am-10pm,4.3,false
+120,Chinese,Medium,Queens,8am-10pm,2.4,false
+121,Italian,Expensive,Staten Island,8am-10pm,2.1,false
+122,Italian,Medium,Bronx,8am-10pm,2.9,false
+123,Italian,Cheap,Queens,8am-10pm,3.4,false
+124,American,Expensive,Brooklyn,8am-10pm,3.7,false
+125,Mexican,Medium,Bronx,8am-10pm,1.8,true
+126,Japanese,Medium,Manhattan,8am-10pm,1.4,true
+127,Japanese,Medium,Brooklyn,8am-10pm,3.8,true
+128,Chinese,Expensive,Manhattan,8am-10pm,4.9,false
+129,Italian,Cheap,Queens,8am-10pm,4.5,false
+130,Japanese,Cheap,Manhattan,8am-10pm,2.1,false
+131,Japanese,Cheap,Staten Island,8am-10pm,3.1,true
+132,Chinese,Cheap,Brooklyn,8am-10pm,2.8,false
+133,Japanese,Medium,Brooklyn,8am-10pm,4.1,false
+134,Mexican,Expensive,Manhattan,8am-10pm,1.5,false
+135,American,Cheap,Brooklyn,8am-10pm,2.2,true
+136,Chinese,Expensive,Queens,8am-10pm,1.6,false
+137,American,Expensive,Brooklyn,8am-10pm,4.9,true
+138,Italian,Medium,Manhattan,8am-10pm,4.7,false
+139,Italian,Cheap,Bronx,8am-10pm,4.7,false
+140,American,Expensive,Manhattan,8am-10pm,2.6,true
+141,Mexican,Medium,Staten Island,8am-10pm,4.3,true
+142,American,Medium,Queens,8am-10pm,4.3,false
+143,Chinese,Cheap,Staten Island,8am-10pm,3.6,true
+144,Japanese,Expensive,Bronx,8am-10pm,2.1,false
+145,Italian,Expensive,Staten Island,8am-10pm,2.9,false
+146,American,Medium,Brooklyn,8am-10pm,1.0,false
+147,Mexican,Expensive,Brooklyn,8am-10pm,1.6,false
+148,Japanese,Expensive,Manhattan,8am-10pm,2.2,true
+149,Japanese,Medium,Brooklyn,8am-10pm,3.5,true
+150,American,Expensive,Bronx,8am-10pm,4.1,false
+151,Mexican,Medium,Bronx,8am-10pm,3.4,true
+152,Chinese,Cheap,Manhattan,8am-10pm,1.8,true
+153,Italian,Medium,Bronx,8am-10pm,1.0,true
+154,American,Expensive,Manhattan,8am-10pm,4.0,false
+155,Italian,Cheap,Queens,8am-10pm,4.2,true
+156,Italian,Cheap,Manhattan,8am-10pm,2.9,false
+157,Japanese,Medium,Manhattan,8am-10pm,1.6,false
+158,Japanese,Expensive,Queens,8am-10pm,4.2,false
+159,Chinese,Expensive,Queens,8am-10pm,1.7,true
+160,Japanese,Expensive,Queens,8am-10pm,4.3,false
+161,American,Cheap,Manhattan,8am-10pm,3.5,true
+162,American,Cheap,Bronx,8am-10pm,5.0,false
+163,American,Cheap,Brooklyn,8am-10pm,3.4,false
+164,Italian,Expensive,Bronx,8am-10pm,3.8,true
+165,Italian,Expensive,Brooklyn,8am-10pm,2.3,false
+166,Mexican,Expensive,Queens,8am-10pm,1.5,false
+167,Chinese,Expensive,Bronx,8am-10pm,2.2,false
+168,Mexican,Medium,Queens,8am-10pm,1.5,false
+169,Chinese,Medium,Bronx,8am-10pm,2.5,false
+170,Mexican,Medium,Brooklyn,8am-10pm,4.2,false
+171,Chinese,Cheap,Staten Island,8am-10pm,3.6,false
+172,Mexican,Medium,Bronx,8am-10pm,2.1,true
+173,Mexican,Expensive,Bronx,8am-10pm,3.1,false
+174,American,Cheap,Staten Island,8am-10pm,1.1,true
+175,Mexican,Cheap,Bronx,8am-10pm,2.0,true
+176,Japanese,Medium,Staten Island,8am-10pm,1.6,true
+177,American,Cheap,Brooklyn,8am-10pm,2.5,false
+178,Chinese,Expensive,Bronx,8am-10pm,4.2,false
+179,Mexican,Expensive,Queens,8am-10pm,3.7,false
+180,Chinese,Cheap,Queens,8am-10pm,1.6,true
+181,Mexican,Medium,Bronx,8am-10pm,4.6,false
+182,Japanese,Cheap,Manhattan,8am-10pm,2.2,false
+183,Chinese,Medium,Brooklyn,8am-10pm,2.9,true
+184,Mexican,Cheap,Queens,8am-10pm,1.1,false
+185,Italian,Cheap,Bronx,8am-10pm,3.0,false
+186,Mexican,Cheap,Brooklyn,8am-10pm,2.4,true
+187,Mexican,Expensive,Queens,8am-10pm,4.9,true
+188,Chinese,Cheap,Manhattan,8am-10pm,3.5,false
+189,Chinese,Expensive,Queens,8am-10pm,3.0,true
+190,Chinese,Cheap,Queens,8am-10pm,4.0,false
+191,Mexican,Medium,Manhattan,8am-10pm,2.8,false
+192,Mexican,Expensive,Bronx,8am-10pm,3.5,true
+193,Chinese,Expensive,Staten Island,8am-10pm,4.9,true
+194,Italian,Cheap,Staten Island,8am-10pm,3.4,false
+195,Mexican,Cheap,Brooklyn,8am-10pm,4.6,false
+196,Japanese,Medium,Manhattan,8am-10pm,2.3,false
+197,American,Cheap,Manhattan,8am-10pm,3.1,false
+198,Japanese,Expensive,Staten Island,8am-10pm,4.1,true
+199,American,Medium,Staten Island,8am-10pm,1.2,true
+200,American,Cheap,Queens,8am-10pm,2.3,false
+201,American,Cheap,Manhattan,8am-10pm,1.3,true
+202,Italian,Medium,Brooklyn,8am-10pm,4.5,true
+203,Italian,Cheap,Bronx,8am-10pm,3.0,false
+204,American,Expensive,Manhattan,8am-10pm,1.3,true
+205,American,Medium,Staten Island,8am-10pm,4.2,false
+206,Italian,Medium,Queens,8am-10pm,2.1,false
+207,American,Cheap,Queens,8am-10pm,3.4,false
+208,Italian,Cheap,Bronx,8am-10pm,2.3,false
+209,Italian,Cheap,Manhattan,8am-10pm,4.3,false
+210,American,Cheap,Brooklyn,8am-10pm,1.2,true
+211,Italian,Cheap,Queens,8am-10pm,4.0,true
+212,Italian,Medium,Staten Island,8am-10pm,4.9,true
+213,Italian,Expensive,Brooklyn,8am-10pm,2.3,false
+214,Japanese,Cheap,Queens,8am-10pm,1.5,false
+215,Mexican,Medium,Manhattan,8am-10pm,2.4,true
+216,American,Medium,Queens,8am-10pm,4.9,true
+217,Chinese,Cheap,Staten Island,8am-10pm,3.3,true
+218,Chinese,Cheap,Staten Island,8am-10pm,3.7,true
+219,Mexican,Medium,Staten Island,8am-10pm,3.9,true
+220,Mexican,Cheap,Queens,8am-10pm,1.8,false
+221,Chinese,Medium,Queens,8am-10pm,4.8,true
+222,Italian,Medium,Brooklyn,8am-10pm,5.0,true
+223,Mexican,Medium,Bronx,8am-10pm,4.9,true
+224,Italian,Medium,Manhattan,8am-10pm,1.4,false
+225,Japanese,Medium,Staten Island,8am-10pm,3.9,true
+226,American,Medium,Manhattan,8am-10pm,4.4,true
+227,Chinese,Cheap,Queens,8am-10pm,1.1,true
+228,Mexican,Expensive,Bronx,8am-10pm,4.3,false
+229,Italian,Expensive,Brooklyn,8am-10pm,1.7,true
+230,Mexican,Cheap,Bronx,8am-10pm,1.5,true
+231,Chinese,Expensive,Manhattan,8am-10pm,4.8,true
+232,Japanese,Medium,Brooklyn,8am-10pm,1.4,true
+233,Chinese,Medium,Manhattan,8am-10pm,1.4,true
+234,American,Cheap,Queens,8am-10pm,2.2,false
+235,Mexican,Medium,Queens,8am-10pm,3.7,true
+236,Japanese,Cheap,Brooklyn,8am-10pm,1.2,true
+237,Japanese,Medium,Staten Island,8am-10pm,3.9,false
+238,Mexican,Expensive,Manhattan,8am-10pm,1.8,true
+239,Chinese,Medium,Staten Island,8am-10pm,1.4,true
+240,Chinese,Expensive,Brooklyn,8am-10pm,3.0,false
+241,Italian,Medium,Bronx,8am-10pm,2.2,true
+242,Mexican,Medium,Bronx,8am-10pm,1.9,false
+243,Chinese,Cheap,Brooklyn,8am-10pm,1.1,false
+244,American,Medium,Brooklyn,8am-10pm,3.7,false
+245,Japanese,Medium,Queens,8am-10pm,2.0,true
+246,Mexican,Cheap,Staten Island,8am-10pm,1.3,true
+247,Italian,Cheap,Manhattan,8am-10pm,2.7,true
+248,Chinese,Cheap,Queens,8am-10pm,3.8,false
+249,Mexican,Expensive,Queens,8am-10pm,2.2,false
+250,Italian,Medium,Staten Island,8am-10pm,2.3,false
+251,Mexican,Cheap,Queens,8am-10pm,1.8,false
+252,Chinese,Expensive,Bronx,8am-10pm,3.9,false
+253,Japanese,Expensive,Staten Island,8am-10pm,1.7,true
+254,Chinese,Cheap,Manhattan,8am-10pm,2.1,true
+255,Italian,Cheap,Manhattan,8am-10pm,1.8,false
+256,Chinese,Cheap,Bronx,8am-10pm,4.1,false
+257,Japanese,Expensive,Bronx,8am-10pm,1.5,true
+258,Italian,Medium,Brooklyn,8am-10pm,4.9,true
+259,Japanese,Medium,Bronx,8am-10pm,4.5,true
+260,Chinese,Expensive,Queens,8am-10pm,1.5,true
+261,Chinese,Cheap,Manhattan,8am-10pm,3.2,false
+262,Italian,Medium,Staten Island,8am-10pm,2.4,true
+263,Mexican,Medium,Brooklyn,8am-10pm,4.5,true
+264,Mexican,Medium,Bronx,8am-10pm,1.2,true
+265,American,Expensive,Manhattan,8am-10pm,3.9,false
+266,Italian,Medium,Manhattan,8am-10pm,1.6,true
+267,Italian,Medium,Brooklyn,8am-10pm,2.8,false
+268,American,Expensive,Brooklyn,8am-10pm,3.5,false
+269,Italian,Expensive,Bronx,8am-10pm,1.0,false
+270,Italian,Cheap,Queens,8am-10pm,4.7,true
+271,Japanese,Expensive,Brooklyn,8am-10pm,3.1,true
+272,Mexican,Cheap,Queens,8am-10pm,3.0,false
+273,Italian,Cheap,Staten Island,8am-10pm,3.8,false
+274,Japanese,Expensive,Staten Island,8am-10pm,1.2,false
+275,Mexican,Medium,Queens,8am-10pm,3.9,true
+276,American,Expensive,Staten Island,8am-10pm,4.7,false
+277,Mexican,Expensive,Bronx,8am-10pm,4.1,false
+278,Japanese,Cheap,Bronx,8am-10pm,4.9,false
+279,Italian,Cheap,Bronx,8am-10pm,1.9,false
+280,American,Cheap,Brooklyn,8am-10pm,3.0,false
+281,Chinese,Cheap,Queens,8am-10pm,2.7,true
+282,Mexican,Expensive,Manhattan,8am-10pm,3.7,false
+283,Mexican,Cheap,Bronx,8am-10pm,4.2,true
+284,Chinese,Medium,Brooklyn,8am-10pm,3.0,false
+285,Japanese,Cheap,Staten Island,8am-10pm,2.9,true
+286,American,Medium,Staten Island,8am-10pm,3.4,true
+287,American,Cheap,Staten Island,8am-10pm,4.7,true
+288,Mexican,Expensive,Bronx,8am-10pm,4.7,true
+289,American,Expensive,Bronx,8am-10pm,1.8,true
+290,Italian,Expensive,Manhattan,8am-10pm,3.9,false
+291,Mexican,Medium,Queens,8am-10pm,3.8,false
+292,American,Expensive,Queens,8am-10pm,4.7,false
+293,American,Cheap,Brooklyn,8am-10pm,1.4,true
+294,Mexican,Cheap,Bronx,8am-10pm,1.0,false
+295,Japanese,Cheap,Staten Island,8am-10pm,1.4,false
+296,Chinese,Medium,Staten Island,8am-10pm,2.7,false
+297,Chinese,Cheap,Brooklyn,8am-10pm,1.5,false
+298,American,Medium,Brooklyn,8am-10pm,4.0,true
+299,Japanese,Expensive,Queens,8am-10pm,1.3,true
+300,Japanese,Cheap,Bronx,8am-10pm,3.3,false
+301,Chinese,Expensive,Bronx,8am-10pm,1.1,true
+302,Italian,Cheap,Queens,8am-10pm,3.5,true
+303,Chinese,Medium,Brooklyn,8am-10pm,2.4,true
+304,Mexican,Cheap,Bronx,8am-10pm,3.4,true
+305,Japanese,Medium,Manhattan,8am-10pm,2.4,false
+306,American,Medium,Staten Island,8am-10pm,3.6,false
+307,Italian,Expensive,Staten Island,8am-10pm,2.8,false
+308,Mexican,Cheap,Manhattan,8am-10pm,3.7,false
+309,Chinese,Cheap,Manhattan,8am-10pm,1.7,true
+310,Japanese,Cheap,Brooklyn,8am-10pm,1.9,true
+311,Japanese,Medium,Staten Island,8am-10pm,4.5,false
+312,Italian,Cheap,Brooklyn,8am-10pm,3.6,false
+313,Italian,Medium,Bronx,8am-10pm,2.2,true
+314,Mexican,Expensive,Manhattan,8am-10pm,4.8,true
+315,Italian,Medium,Staten Island,8am-10pm,3.5,false
+316,Mexican,Expensive,Manhattan,8am-10pm,3.2,true
+317,American,Cheap,Bronx,8am-10pm,2.0,true
+318,Japanese,Expensive,Brooklyn,8am-10pm,2.3,true
+319,Italian,Expensive,Queens,8am-10pm,4.1,false
+320,Japanese,Expensive,Staten Island,8am-10pm,2.8,false
+321,Italian,Medium,Queens,8am-10pm,2.0,false
+322,Japanese,Expensive,Queens,8am-10pm,2.9,true
+323,Japanese,Cheap,Brooklyn,8am-10pm,1.4,true
+324,Japanese,Medium,Staten Island,8am-10pm,2.4,true
+325,Mexican,Medium,Queens,8am-10pm,2.2,false
+326,Chinese,Cheap,Manhattan,8am-10pm,3.1,false
+327,Italian,Medium,Bronx,8am-10pm,3.0,true
+328,Japanese,Expensive,Staten Island,8am-10pm,3.5,true
+329,Japanese,Cheap,Brooklyn,8am-10pm,4.6,true
+330,Mexican,Medium,Brooklyn,8am-10pm,1.5,false
+331,Mexican,Cheap,Bronx,8am-10pm,3.8,false
+332,Chinese,Cheap,Manhattan,8am-10pm,4.6,true
+333,Italian,Cheap,Manhattan,8am-10pm,1.1,true
+334,Mexican,Medium,Manhattan,8am-10pm,1.6,false
+335,Chinese,Medium,Manhattan,8am-10pm,3.8,false
+336,Italian,Expensive,Manhattan,8am-10pm,1.6,true
+337,Italian,Cheap,Queens,8am-10pm,2.6,true
+338,American,Cheap,Staten Island,8am-10pm,1.8,false
+339,Chinese,Expensive,Staten Island,8am-10pm,3.9,false
+340,Japanese,Expensive,Manhattan,8am-10pm,1.1,false
+341,American,Cheap,Brooklyn,8am-10pm,4.2,true
+342,Chinese,Cheap,Queens,8am-10pm,2.6,false
+343,Italian,Medium,Manhattan,8am-10pm,4.4,false
+344,American,Expensive,Queens,8am-10pm,2.4,false
+345,Mexican,Cheap,Manhattan,8am-10pm,4.4,true
+346,American,Cheap,Bronx,8am-10pm,2.7,false
+347,American,Medium,Staten Island,8am-10pm,4.5,false
+348,Chinese,Medium,Staten Island,8am-10pm,2.5,false
+349,Italian,Medium,Brooklyn,8am-10pm,4.8,false
+350,Italian,Cheap,Brooklyn,8am-10pm,2.6,false
+351,Chinese,Expensive,Queens,8am-10pm,3.6,true
+352,Japanese,Medium,Bronx,8am-10pm,3.3,true
+353,Mexican,Cheap,Manhattan,8am-10pm,2.3,true
+354,Chinese,Expensive,Staten Island,8am-10pm,4.9,true
+355,Japanese,Expensive,Brooklyn,8am-10pm,4.7,false
+356,Italian,Expensive,Manhattan,8am-10pm,4.9,false
+357,Japanese,Medium,Bronx,8am-10pm,4.2,false
+358,Mexican,Cheap,Brooklyn,8am-10pm,1.9,false
+359,Mexican,Expensive,Manhattan,8am-10pm,3.2,false
+360,Italian,Cheap,Brooklyn,8am-10pm,4.8,false
+361,Italian,Cheap,Brooklyn,8am-10pm,4.0,false
+362,Chinese,Medium,Queens,8am-10pm,1.8,true
+363,American,Cheap,Queens,8am-10pm,1.6,false
+364,Japanese,Expensive,Queens,8am-10pm,3.2,true
+365,Japanese,Medium,Manhattan,8am-10pm,4.3,false
+366,Chinese,Medium,Staten Island,8am-10pm,1.5,false
+367,Mexican,Expensive,Manhattan,8am-10pm,2.5,false
+368,American,Medium,Brooklyn,8am-10pm,1.2,true
+369,Chinese,Expensive,Queens,8am-10pm,4.9,true
+370,Mexican,Expensive,Staten Island,8am-10pm,3.7,false
+371,Mexican,Medium,Bronx,8am-10pm,1.3,false
+372,Mexican,Medium,Manhattan,8am-10pm,1.0,true
+373,Chinese,Cheap,Staten Island,8am-10pm,2.1,false
+374,Italian,Medium,Bronx,8am-10pm,3.4,true
+375,Mexican,Medium,Staten Island,8am-10pm,3.1,true
+376,Japanese,Medium,Manhattan,8am-10pm,3.3,true
+377,Italian,Expensive,Bronx,8am-10pm,2.4,true
+378,Mexican,Cheap,Manhattan,8am-10pm,2.0,true
+379,Japanese,Expensive,Manhattan,8am-10pm,2.9,true
+380,Italian,Medium,Bronx,8am-10pm,1.9,false
+381,Italian,Cheap,Manhattan,8am-10pm,1.4,false
+382,American,Expensive,Staten Island,8am-10pm,1.0,true
+383,American,Expensive,Brooklyn,8am-10pm,3.1,false
+384,Mexican,Cheap,Brooklyn,8am-10pm,1.9,false
+385,American,Medium,Queens,8am-10pm,1.5,false
+386,Mexican,Expensive,Staten Island,8am-10pm,2.9,false
+387,Mexican,Expensive,Manhattan,8am-10pm,4.2,false
+388,Japanese,Cheap,Brooklyn,8am-10pm,2.7,true
+389,Japanese,Expensive,Queens,8am-10pm,4.3,false
+390,Chinese,Expensive,Staten Island,8am-10pm,2.6,false
+391,Chinese,Medium,Bronx,8am-10pm,1.6,false
+392,Chinese,Expensive,Staten Island,8am-10pm,1.6,false
+393,American,Expensive,Manhattan,8am-10pm,1.3,false
+394,American,Expensive,Queens,8am-10pm,1.4,false
+395,American,Expensive,Staten Island,8am-10pm,3.6,false
+396,Italian,Cheap,Bronx,8am-10pm,2.6,true
+397,Japanese,Expensive,Staten Island,8am-10pm,4.0,false
+398,American,Expensive,Staten Island,8am-10pm,3.9,true
+399,Chinese,Expensive,Queens,8am-10pm,4.5,false
+400,Italian,Cheap,Manhattan,8am-10pm,3.7,false
+401,Italian,Cheap,Brooklyn,8am-10pm,2.9,true
+402,Chinese,Medium,Queens,8am-10pm,2.9,false
+403,Japanese,Expensive,Queens,8am-10pm,1.5,false
+404,Mexican,Expensive,Staten Island,8am-10pm,2.4,false
+405,Mexican,Medium,Queens,8am-10pm,1.8,true
+406,American,Cheap,Staten Island,8am-10pm,3.7,true
+407,Italian,Medium,Bronx,8am-10pm,4.5,true
+408,Chinese,Cheap,Queens,8am-10pm,1.8,false
+409,Italian,Medium,Staten Island,8am-10pm,1.0,false
+410,Chinese,Expensive,Bronx,8am-10pm,4.2,false
+411,Italian,Medium,Manhattan,8am-10pm,2.0,true
+412,American,Medium,Queens,8am-10pm,1.4,false
+413,Japanese,Cheap,Manhattan,8am-10pm,4.1,false
+414,Japanese,Cheap,Staten Island,8am-10pm,3.2,false
+415,Mexican,Expensive,Brooklyn,8am-10pm,4.6,true
+416,Japanese,Medium,Manhattan,8am-10pm,4.6,false
+417,Chinese,Medium,Manhattan,8am-10pm,4.1,false
+418,American,Expensive,Queens,8am-10pm,4.9,false
+419,Mexican,Medium,Bronx,8am-10pm,3.7,false
+420,American,Expensive,Manhattan,8am-10pm,4.9,false
+421,Italian,Medium,Manhattan,8am-10pm,1.5,true
+422,Mexican,Expensive,Bronx,8am-10pm,1.7,false
+423,Italian,Cheap,Manhattan,8am-10pm,4.9,true
+424,Chinese,Cheap,Queens,8am-10pm,4.2,true
+425,Mexican,Expensive,Queens,8am-10pm,1.8,false
+426,Italian,Expensive,Queens,8am-10pm,4.3,false
+427,American,Expensive,Staten Island,8am-10pm,3.4,false
+428,American,Cheap,Brooklyn,8am-10pm,4.6,false
+429,Chinese,Expensive,Bronx,8am-10pm,4.8,false
+430,Chinese,Cheap,Bronx,8am-10pm,4.4,false
+431,American,Medium,Queens,8am-10pm,4.9,false
+432,American,Expensive,Bronx,8am-10pm,4.3,true
+433,Japanese,Cheap,Staten Island,8am-10pm,2.4,true
+434,Chinese,Cheap,Bronx,8am-10pm,1.6,false
+435,American,Cheap,Brooklyn,8am-10pm,1.5,true
+436,Mexican,Expensive,Staten Island,8am-10pm,4.1,true
+437,American,Medium,Bronx,8am-10pm,1.2,true
+438,Mexican,Expensive,Manhattan,8am-10pm,2.6,false
+439,Chinese,Medium,Queens,8am-10pm,4.4,true
+440,Chinese,Cheap,Staten Island,8am-10pm,4.1,true
+441,Italian,Expensive,Brooklyn,8am-10pm,3.3,false
+442,American,Expensive,Staten Island,8am-10pm,4.1,true
+443,Mexican,Cheap,Brooklyn,8am-10pm,5.0,true
+444,Chinese,Medium,Brooklyn,8am-10pm,2.7,true
+445,Italian,Medium,Staten Island,8am-10pm,4.9,false
+446,Mexican,Cheap,Bronx,8am-10pm,5.0,true
+447,Chinese,Expensive,Manhattan,8am-10pm,1.3,true
+448,Italian,Expensive,Queens,8am-10pm,2.7,false
+449,Chinese,Cheap,Bronx,8am-10pm,4.1,false
+450,Japanese,Medium,Manhattan,8am-10pm,3.4,false
+451,American,Medium,Brooklyn,8am-10pm,2.0,false
+452,Chinese,Medium,Staten Island,8am-10pm,4.3,true
+453,Italian,Cheap,Bronx,8am-10pm,1.3,false
+454,Japanese,Medium,Brooklyn,8am-10pm,1.6,true
+455,American,Expensive,Staten Island,8am-10pm,1.1,true
+456,Japanese,Cheap,Brooklyn,8am-10pm,4.8,true
+457,American,Medium,Queens,8am-10pm,3.2,false
+458,Chinese,Expensive,Bronx,8am-10pm,1.9,false
+459,Japanese,Cheap,Staten Island,8am-10pm,4.3,false
+460,Chinese,Expensive,Staten Island,8am-10pm,4.1,false
+461,Chinese,Medium,Staten Island,8am-10pm,4.3,true
+462,Chinese,Cheap,Manhattan,8am-10pm,1.6,false
+463,Italian,Cheap,Manhattan,8am-10pm,4.8,false
+464,Mexican,Medium,Manhattan,8am-10pm,3.1,true
+465,Chinese,Medium,Bronx,8am-10pm,1.6,false
+466,American,Cheap,Brooklyn,8am-10pm,1.1,false
+467,Mexican,Expensive,Manhattan,8am-10pm,1.2,false
+468,American,Cheap,Queens,8am-10pm,4.0,true
+469,Italian,Expensive,Queens,8am-10pm,4.1,false
+470,Italian,Cheap,Manhattan,8am-10pm,3.5,true
+471,American,Expensive,Brooklyn,8am-10pm,2.3,false
+472,Japanese,Expensive,Bronx,8am-10pm,4.0,true
+473,Chinese,Expensive,Staten Island,8am-10pm,3.1,false
+474,Japanese,Medium,Brooklyn,8am-10pm,2.7,true
+475,American,Cheap,Brooklyn,8am-10pm,1.9,false
+476,Chinese,Expensive,Bronx,8am-10pm,4.4,false
+477,Italian,Cheap,Manhattan,8am-10pm,1.4,true
+478,American,Expensive,Brooklyn,8am-10pm,4.1,true
+479,Mexican,Cheap,Bronx,8am-10pm,1.0,false
+480,American,Cheap,Brooklyn,8am-10pm,4.3,false
+481,American,Cheap,Manhattan,8am-10pm,2.0,true
+482,American,Cheap,Manhattan,8am-10pm,2.1,true
+483,Mexican,Expensive,Staten Island,8am-10pm,1.8,true
+484,Mexican,Cheap,Manhattan,8am-10pm,2.7,true
+485,Chinese,Expensive,Manhattan,8am-10pm,2.5,true
+486,Italian,Cheap,Brooklyn,8am-10pm,4.7,true
+487,American,Expensive,Queens,8am-10pm,3.2,false
+488,Chinese,Cheap,Brooklyn,8am-10pm,1.5,false
+489,Italian,Cheap,Manhattan,8am-10pm,1.9,true
+490,Chinese,Medium,Brooklyn,8am-10pm,3.1,true
+491,Italian,Medium,Manhattan,8am-10pm,3.8,false
+492,Chinese,Cheap,Staten Island,8am-10pm,4.5,true
+493,Chinese,Cheap,Queens,8am-10pm,3.9,true
+494,American,Expensive,Bronx,8am-10pm,1.9,true
+495,Italian,Cheap,Manhattan,8am-10pm,1.3,false
+496,Chinese,Expensive,Brooklyn,8am-10pm,3.8,true
+497,Chinese,Medium,Staten Island,8am-10pm,1.3,false
+498,Chinese,Expensive,Brooklyn,8am-10pm,2.5,false
+499,Chinese,Medium,Staten Island,8am-10pm,4.3,true
+500,Italian,Expensive,Manhattan,8am-10pm,1.7,true
+501,Mexican,Medium,Staten Island,8am-10pm,2.6,true
+502,Japanese,Expensive,Bronx,8am-10pm,3.0,true
+503,Italian,Cheap,Queens,8am-10pm,1.5,false
+504,American,Expensive,Bronx,8am-10pm,3.6,false
+505,Mexican,Medium,Staten Island,8am-10pm,5.0,false
+506,Japanese,Cheap,Bronx,8am-10pm,4.5,true
+507,Japanese,Medium,Brooklyn,8am-10pm,1.3,false
+508,Japanese,Cheap,Queens,8am-10pm,1.1,true
+509,Mexican,Medium,Bronx,8am-10pm,2.1,false
+510,Japanese,Expensive,Queens,8am-10pm,2.4,false
+511,Japanese,Cheap,Manhattan,8am-10pm,2.2,true
+512,Chinese,Expensive,Manhattan,8am-10pm,4.0,true
+513,Mexican,Cheap,Manhattan,8am-10pm,3.3,false
+514,Chinese,Expensive,Brooklyn,8am-10pm,4.9,true
+515,Mexican,Expensive,Brooklyn,8am-10pm,1.2,false
+516,Japanese,Medium,Manhattan,8am-10pm,1.4,true
+517,Japanese,Expensive,Queens,8am-10pm,3.9,false
+518,Japanese,Expensive,Brooklyn,8am-10pm,4.9,false
+519,American,Cheap,Manhattan,8am-10pm,3.6,true
+520,Japanese,Medium,Brooklyn,8am-10pm,4.8,false
+521,Chinese,Cheap,Brooklyn,8am-10pm,4.1,false
+522,Japanese,Medium,Bronx,8am-10pm,1.0,true
+523,Japanese,Medium,Staten Island,8am-10pm,1.6,false
+524,Mexican,Cheap,Brooklyn,8am-10pm,4.0,true
+525,Chinese,Expensive,Staten Island,8am-10pm,1.7,false
+526,Chinese,Medium,Queens,8am-10pm,2.7,true
+527,Chinese,Expensive,Bronx,8am-10pm,4.0,true
+528,American,Cheap,Staten Island,8am-10pm,2.8,false
+529,Chinese,Medium,Bronx,8am-10pm,4.9,false
+530,Chinese,Medium,Queens,8am-10pm,2.8,false
+531,Japanese,Expensive,Staten Island,8am-10pm,2.3,false
+532,Chinese,Medium,Staten Island,8am-10pm,2.3,true
+533,Mexican,Medium,Manhattan,8am-10pm,4.3,true
+534,Japanese,Expensive,Queens,8am-10pm,4.4,false
+535,Japanese,Cheap,Queens,8am-10pm,1.8,true
+536,Japanese,Medium,Manhattan,8am-10pm,1.7,true
+537,Italian,Expensive,Bronx,8am-10pm,3.2,true
+538,Japanese,Medium,Brooklyn,8am-10pm,3.8,true
+539,American,Medium,Staten Island,8am-10pm,3.6,true
+540,Chinese,Medium,Staten Island,8am-10pm,3.0,true
+541,Chinese,Expensive,Staten Island,8am-10pm,2.9,true
+542,Chinese,Medium,Staten Island,8am-10pm,4.7,true
+543,Japanese,Cheap,Queens,8am-10pm,2.1,true
+544,Chinese,Cheap,Staten Island,8am-10pm,2.7,true
+545,American,Cheap,Staten Island,8am-10pm,1.2,false
+546,American,Cheap,Bronx,8am-10pm,2.2,false
+547,Mexican,Medium,Brooklyn,8am-10pm,1.3,true
+548,American,Expensive,Manhattan,8am-10pm,4.6,false
+549,Japanese,Medium,Bronx,8am-10pm,4.2,true
+550,Japanese,Expensive,Manhattan,8am-10pm,4.4,false
+551,Chinese,Medium,Brooklyn,8am-10pm,2.2,false
+552,American,Expensive,Manhattan,8am-10pm,2.6,false
+553,Italian,Medium,Queens,8am-10pm,4.1,false
+554,Chinese,Medium,Queens,8am-10pm,2.7,true
+555,Japanese,Medium,Bronx,8am-10pm,2.1,false
+556,Chinese,Expensive,Queens,8am-10pm,2.1,true
+557,Mexican,Cheap,Queens,8am-10pm,3.8,true
+558,Mexican,Medium,Bronx,8am-10pm,1.9,false
+559,Chinese,Expensive,Staten Island,8am-10pm,1.2,true
+560,Mexican,Expensive,Brooklyn,8am-10pm,1.7,false
+561,Mexican,Cheap,Manhattan,8am-10pm,1.2,false
+562,American,Cheap,Queens,8am-10pm,4.7,false
+563,Mexican,Expensive,Queens,8am-10pm,4.4,true
+564,Mexican,Medium,Manhattan,8am-10pm,1.4,false
+565,Mexican,Medium,Brooklyn,8am-10pm,2.4,false
+566,Japanese,Cheap,Bronx,8am-10pm,2.4,false
+567,Italian,Cheap,Brooklyn,8am-10pm,1.8,false
+568,Italian,Expensive,Queens,8am-10pm,3.0,false
+569,American,Cheap,Staten Island,8am-10pm,4.3,false
+570,Mexican,Expensive,Queens,8am-10pm,1.2,false
+571,Japanese,Medium,Bronx,8am-10pm,1.4,true
+572,American,Expensive,Staten Island,8am-10pm,3.8,false
+573,Chinese,Expensive,Brooklyn,8am-10pm,2.1,false
+574,Japanese,Cheap,Queens,8am-10pm,1.2,false
+575,Japanese,Expensive,Manhattan,8am-10pm,3.8,false
+576,Mexican,Expensive,Brooklyn,8am-10pm,1.8,false
+577,American,Cheap,Bronx,8am-10pm,3.8,false
+578,Chinese,Medium,Brooklyn,8am-10pm,5.0,true
+579,Italian,Expensive,Brooklyn,8am-10pm,3.6,false
+580,Mexican,Medium,Manhattan,8am-10pm,2.6,true
+581,Mexican,Cheap,Staten Island,8am-10pm,2.7,false
+582,Mexican,Cheap,Bronx,8am-10pm,3.6,true
+583,Chinese,Cheap,Brooklyn,8am-10pm,1.3,false
+584,Chinese,Cheap,Brooklyn,8am-10pm,1.3,false
+585,Chinese,Expensive,Queens,8am-10pm,2.9,true
+586,Japanese,Medium,Staten Island,8am-10pm,3.5,false
+587,Italian,Cheap,Brooklyn,8am-10pm,3.9,true
+588,Mexican,Expensive,Staten Island,8am-10pm,3.8,false
+589,Japanese,Expensive,Manhattan,8am-10pm,3.0,true
+590,Japanese,Expensive,Brooklyn,8am-10pm,3.0,false
+591,Chinese,Medium,Brooklyn,8am-10pm,4.1,false
+592,Mexican,Medium,Brooklyn,8am-10pm,1.2,false
+593,Mexican,Expensive,Queens,8am-10pm,4.7,true
+594,Japanese,Expensive,Staten Island,8am-10pm,2.4,false
+595,Japanese,Cheap,Manhattan,8am-10pm,3.3,true
+596,Japanese,Medium,Manhattan,8am-10pm,4.2,false
+597,Mexican,Cheap,Staten Island,8am-10pm,2.7,false
+598,American,Cheap,Queens,8am-10pm,3.0,true
+599,Italian,Medium,Bronx,8am-10pm,1.7,true
+600,Japanese,Cheap,Manhattan,8am-10pm,2.0,true
+601,Mexican,Expensive,Staten Island,8am-10pm,4.6,false
+602,Japanese,Medium,Manhattan,8am-10pm,4.0,true
+603,Chinese,Medium,Brooklyn,8am-10pm,2.2,false
+604,Chinese,Expensive,Staten Island,8am-10pm,3.7,false
+605,Mexican,Medium,Queens,8am-10pm,4.2,true
+606,Italian,Expensive,Manhattan,8am-10pm,3.0,true
+607,Mexican,Cheap,Brooklyn,8am-10pm,3.5,true
+608,Mexican,Expensive,Queens,8am-10pm,3.2,false
+609,Mexican,Cheap,Brooklyn,8am-10pm,2.9,true
+610,Mexican,Medium,Bronx,8am-10pm,4.1,false
+611,Japanese,Medium,Brooklyn,8am-10pm,1.0,true
+612,Japanese,Expensive,Manhattan,8am-10pm,3.5,true
+613,American,Expensive,Bronx,8am-10pm,3.2,true
+614,Japanese,Medium,Staten Island,8am-10pm,4.0,false
+615,Mexican,Expensive,Queens,8am-10pm,3.6,false
+616,Mexican,Medium,Bronx,8am-10pm,1.9,true
+617,Japanese,Expensive,Queens,8am-10pm,1.3,true
+618,Mexican,Cheap,Brooklyn,8am-10pm,4.8,false
+619,Italian,Expensive,Manhattan,8am-10pm,2.3,false
+620,Mexican,Cheap,Queens,8am-10pm,2.9,true
+621,Japanese,Expensive,Bronx,8am-10pm,3.0,false
+622,Chinese,Cheap,Staten Island,8am-10pm,2.4,false
+623,Italian,Expensive,Brooklyn,8am-10pm,2.3,false
+624,American,Cheap,Queens,8am-10pm,4.3,false
+625,Chinese,Expensive,Bronx,8am-10pm,4.9,true
+626,Japanese,Expensive,Bronx,8am-10pm,3.0,true
+627,Italian,Expensive,Queens,8am-10pm,3.6,false
+628,Mexican,Medium,Brooklyn,8am-10pm,1.8,true
+629,Italian,Cheap,Bronx,8am-10pm,3.1,false
+630,Mexican,Expensive,Staten Island,8am-10pm,1.1,true
+631,Chinese,Cheap,Manhattan,8am-10pm,1.0,true
+632,American,Expensive,Brooklyn,8am-10pm,3.9,true
+633,Mexican,Expensive,Staten Island,8am-10pm,1.8,true
+634,Italian,Expensive,Bronx,8am-10pm,3.7,true
+635,Japanese,Expensive,Manhattan,8am-10pm,1.2,true
+636,Chinese,Cheap,Queens,8am-10pm,4.8,true
+637,Italian,Medium,Bronx,8am-10pm,1.2,false
+638,Mexican,Cheap,Staten Island,8am-10pm,4.5,false
+639,Italian,Cheap,Bronx,8am-10pm,3.2,true
+640,Italian,Expensive,Manhattan,8am-10pm,4.5,true
+641,American,Medium,Manhattan,8am-10pm,2.2,true
+642,Japanese,Expensive,Brooklyn,8am-10pm,3.9,true
+643,Italian,Medium,Staten Island,8am-10pm,3.6,false
+644,Japanese,Expensive,Manhattan,8am-10pm,3.7,false
+645,Italian,Medium,Staten Island,8am-10pm,3.3,true
+646,Japanese,Cheap,Brooklyn,8am-10pm,3.2,true
+647,Japanese,Medium,Staten Island,8am-10pm,3.4,true
+648,Italian,Expensive,Brooklyn,8am-10pm,2.6,true
+649,Chinese,Cheap,Brooklyn,8am-10pm,2.4,true
+650,Chinese,Expensive,Queens,8am-10pm,2.4,false
+651,Japanese,Expensive,Brooklyn,8am-10pm,3.4,true
+652,Japanese,Expensive,Brooklyn,8am-10pm,2.5,true
+653,Mexican,Expensive,Staten Island,8am-10pm,2.2,false
+654,Chinese,Expensive,Staten Island,8am-10pm,2.1,true
+655,Chinese,Expensive,Bronx,8am-10pm,3.8,false
+656,American,Expensive,Bronx,8am-10pm,1.7,false
+657,Chinese,Expensive,Queens,8am-10pm,3.0,false
+658,Japanese,Cheap,Brooklyn,8am-10pm,2.7,true
+659,Japanese,Expensive,Brooklyn,8am-10pm,3.4,true
+660,Chinese,Cheap,Staten Island,8am-10pm,3.1,true
+661,Italian,Cheap,Staten Island,8am-10pm,1.4,true
+662,Italian,Expensive,Queens,8am-10pm,3.1,true
+663,Mexican,Expensive,Bronx,8am-10pm,1.3,true
+664,Italian,Cheap,Staten Island,8am-10pm,4.7,false
+665,Italian,Medium,Staten Island,8am-10pm,1.4,false
+666,Chinese,Cheap,Staten Island,8am-10pm,1.5,true
+667,Japanese,Medium,Staten Island,8am-10pm,3.1,false
+668,Italian,Cheap,Staten Island,8am-10pm,2.4,false
+669,American,Expensive,Staten Island,8am-10pm,2.7,false
+670,Chinese,Medium,Bronx,8am-10pm,4.6,false
+671,Italian,Cheap,Bronx,8am-10pm,3.2,true
+672,Japanese,Cheap,Manhattan,8am-10pm,1.6,true
+673,Chinese,Cheap,Staten Island,8am-10pm,1.3,true
+674,Japanese,Expensive,Staten Island,8am-10pm,1.9,true
+675,Italian,Expensive,Bronx,8am-10pm,3.4,true
+676,Mexican,Expensive,Manhattan,8am-10pm,2.9,true
+677,American,Medium,Staten Island,8am-10pm,2.7,true
+678,American,Medium,Queens,8am-10pm,3.7,false
+679,Mexican,Expensive,Queens,8am-10pm,3.7,true
+680,Mexican,Expensive,Bronx,8am-10pm,4.5,true
+681,Mexican,Expensive,Manhattan,8am-10pm,1.3,true
+682,Chinese,Expensive,Brooklyn,8am-10pm,1.5,false
+683,Chinese,Expensive,Staten Island,8am-10pm,2.7,false
+684,Italian,Expensive,Manhattan,8am-10pm,4.3,true
+685,American,Cheap,Bronx,8am-10pm,3.8,true
+686,Italian,Cheap,Staten Island,8am-10pm,2.2,true
+687,Chinese,Expensive,Queens,8am-10pm,1.5,false
+688,Japanese,Expensive,Staten Island,8am-10pm,4.3,true
+689,Japanese,Medium,Bronx,8am-10pm,1.3,true
+690,Chinese,Cheap,Staten Island,8am-10pm,1.6,true
+691,Italian,Cheap,Queens,8am-10pm,2.3,false
+692,Japanese,Expensive,Staten Island,8am-10pm,3.6,true
+693,Chinese,Medium,Bronx,8am-10pm,4.0,true
+694,Italian,Medium,Queens,8am-10pm,2.3,false
+695,Chinese,Medium,Staten Island,8am-10pm,3.2,true
+696,Italian,Cheap,Queens,8am-10pm,2.8,true
+697,American,Cheap,Bronx,8am-10pm,2.1,false
+698,Japanese,Medium,Bronx,8am-10pm,4.5,true
+699,American,Cheap,Queens,8am-10pm,4.3,false
+700,Mexican,Cheap,Queens,8am-10pm,4.9,true
+701,American,Cheap,Brooklyn,8am-10pm,3.7,false
+702,Chinese,Medium,Bronx,8am-10pm,3.7,true
+703,Mexican,Cheap,Bronx,8am-10pm,2.6,true
+704,American,Medium,Bronx,8am-10pm,2.6,true
+705,Italian,Expensive,Bronx,8am-10pm,1.3,false
+706,Chinese,Cheap,Queens,8am-10pm,4.6,false
+707,Chinese,Expensive,Manhattan,8am-10pm,1.1,true
+708,Italian,Cheap,Staten Island,8am-10pm,4.4,true
+709,Italian,Medium,Bronx,8am-10pm,1.7,false
+710,American,Cheap,Brooklyn,8am-10pm,3.7,true
+711,Mexican,Expensive,Staten Island,8am-10pm,4.2,false
+712,Japanese,Expensive,Brooklyn,8am-10pm,3.3,true
+713,Japanese,Expensive,Brooklyn,8am-10pm,4.3,true
+714,Mexican,Medium,Staten Island,8am-10pm,2.3,true
+715,Italian,Cheap,Queens,8am-10pm,2.3,true
+716,American,Cheap,Manhattan,8am-10pm,3.1,false
+717,Japanese,Cheap,Staten Island,8am-10pm,1.7,true
+718,Chinese,Medium,Manhattan,8am-10pm,4.9,true
+719,Japanese,Medium,Brooklyn,8am-10pm,1.0,true
+720,Japanese,Cheap,Staten Island,8am-10pm,2.5,false
+721,Italian,Cheap,Brooklyn,8am-10pm,4.9,false
+722,American,Medium,Bronx,8am-10pm,4.9,true
+723,Chinese,Medium,Brooklyn,8am-10pm,2.8,false
+724,Chinese,Medium,Bronx,8am-10pm,2.8,false
+725,Italian,Medium,Staten Island,8am-10pm,4.8,false
+726,Japanese,Cheap,Queens,8am-10pm,2.5,true
+727,Italian,Expensive,Queens,8am-10pm,2.4,false
+728,American,Cheap,Staten Island,8am-10pm,2.8,false
+729,Chinese,Expensive,Bronx,8am-10pm,5.0,true
+730,Mexican,Medium,Queens,8am-10pm,4.3,false
+731,Italian,Cheap,Manhattan,8am-10pm,1.3,true
+732,Japanese,Medium,Manhattan,8am-10pm,2.4,false
+733,Italian,Medium,Staten Island,8am-10pm,4.9,true
+734,American,Expensive,Bronx,8am-10pm,2.0,true
+735,Chinese,Medium,Staten Island,8am-10pm,4.9,true
+736,Japanese,Medium,Manhattan,8am-10pm,2.9,true
+737,Mexican,Expensive,Brooklyn,8am-10pm,4.7,false
+738,American,Medium,Queens,8am-10pm,5.0,true
+739,Italian,Medium,Staten Island,8am-10pm,3.8,false
+740,American,Expensive,Manhattan,8am-10pm,1.2,true
+741,American,Medium,Brooklyn,8am-10pm,1.7,true
+742,Italian,Medium,Manhattan,8am-10pm,2.2,false
+743,American,Cheap,Brooklyn,8am-10pm,1.5,true
+744,American,Medium,Manhattan,8am-10pm,3.1,true
+745,Mexican,Cheap,Manhattan,8am-10pm,3.6,true
+746,Japanese,Expensive,Queens,8am-10pm,4.2,true
+747,American,Expensive,Brooklyn,8am-10pm,3.4,false
+748,Mexican,Expensive,Brooklyn,8am-10pm,2.8,true
+749,American,Cheap,Manhattan,8am-10pm,1.3,true
+750,American,Medium,Staten Island,8am-10pm,1.7,false
+751,Italian,Expensive,Manhattan,8am-10pm,1.9,true
+752,Mexican,Expensive,Queens,8am-10pm,4.7,false
+753,Italian,Cheap,Brooklyn,8am-10pm,2.2,true
+754,American,Expensive,Bronx,8am-10pm,1.1,true
+755,Mexican,Medium,Queens,8am-10pm,4.5,true
+756,Japanese,Expensive,Staten Island,8am-10pm,3.0,true
+757,Japanese,Expensive,Bronx,8am-10pm,4.7,true
+758,Chinese,Expensive,Brooklyn,8am-10pm,3.7,true
+759,American,Medium,Brooklyn,8am-10pm,4.4,true
+760,Mexican,Medium,Bronx,8am-10pm,1.7,false
+761,Mexican,Cheap,Staten Island,8am-10pm,3.7,true
+762,Japanese,Expensive,Manhattan,8am-10pm,4.9,false
+763,Japanese,Medium,Manhattan,8am-10pm,3.3,false
+764,Japanese,Cheap,Brooklyn,8am-10pm,1.0,false
+765,Japanese,Expensive,Brooklyn,8am-10pm,2.4,true
+766,Mexican,Cheap,Brooklyn,8am-10pm,4.4,true
+767,Mexican,Cheap,Queens,8am-10pm,2.7,true
+768,Mexican,Medium,Brooklyn,8am-10pm,1.6,false
+769,Italian,Medium,Manhattan,8am-10pm,3.5,false
+770,American,Cheap,Staten Island,8am-10pm,1.2,false
+771,American,Expensive,Queens,8am-10pm,2.9,true
+772,Chinese,Expensive,Brooklyn,8am-10pm,3.5,true
+773,Japanese,Medium,Manhattan,8am-10pm,1.4,true
+774,Chinese,Medium,Brooklyn,8am-10pm,4.8,true
+775,Italian,Cheap,Staten Island,8am-10pm,3.7,true
+776,Chinese,Cheap,Brooklyn,8am-10pm,2.7,true
+777,American,Medium,Manhattan,8am-10pm,1.2,true
+778,Chinese,Cheap,Staten Island,8am-10pm,4.1,false
+779,Italian,Expensive,Bronx,8am-10pm,2.1,false
+780,Italian,Cheap,Staten Island,8am-10pm,3.3,false
+781,Japanese,Medium,Queens,8am-10pm,3.7,false
+782,American,Medium,Queens,8am-10pm,2.6,false
+783,Italian,Expensive,Queens,8am-10pm,3.7,true
+784,Japanese,Expensive,Bronx,8am-10pm,1.2,false
+785,Japanese,Expensive,Manhattan,8am-10pm,3.5,false
+786,Chinese,Expensive,Manhattan,8am-10pm,1.7,true
+787,Italian,Expensive,Staten Island,8am-10pm,1.8,false
+788,American,Cheap,Bronx,8am-10pm,4.1,false
+789,Italian,Medium,Bronx,8am-10pm,4.5,true
+790,Mexican,Expensive,Manhattan,8am-10pm,1.6,false
+791,American,Expensive,Queens,8am-10pm,3.6,false
+792,Japanese,Medium,Bronx,8am-10pm,4.7,true
+793,American,Medium,Queens,8am-10pm,3.7,true
+794,Mexican,Cheap,Staten Island,8am-10pm,2.8,true
+795,Chinese,Cheap,Bronx,8am-10pm,3.5,false
+796,Mexican,Cheap,Brooklyn,8am-10pm,1.8,false
+797,Japanese,Expensive,Brooklyn,8am-10pm,1.7,false
+798,Mexican,Cheap,Bronx,8am-10pm,4.7,true
+799,American,Medium,Brooklyn,8am-10pm,1.9,true
+800,Japanese,Medium,Staten Island,8am-10pm,3.1,true
+801,Mexican,Cheap,Staten Island,8am-10pm,3.7,false
+802,Chinese,Expensive,Queens,8am-10pm,1.5,false
+803,Italian,Medium,Manhattan,8am-10pm,1.0,true
+804,Italian,Cheap,Manhattan,8am-10pm,4.3,true
+805,Italian,Medium,Staten Island,8am-10pm,2.6,true
+806,Mexican,Cheap,Queens,8am-10pm,1.2,false
+807,Japanese,Expensive,Staten Island,8am-10pm,2.1,true
+808,Italian,Medium,Staten Island,8am-10pm,2.0,true
+809,Chinese,Expensive,Queens,8am-10pm,1.1,false
+810,Chinese,Medium,Bronx,8am-10pm,3.6,true
+811,Mexican,Medium,Queens,8am-10pm,1.5,true
+812,Japanese,Expensive,Manhattan,8am-10pm,3.5,false
+813,American,Expensive,Bronx,8am-10pm,2.8,false
+814,Italian,Cheap,Staten Island,8am-10pm,1.5,false
+815,Mexican,Cheap,Staten Island,8am-10pm,3.4,false
+816,Japanese,Cheap,Manhattan,8am-10pm,1.6,false
+817,Mexican,Medium,Manhattan,8am-10pm,1.9,false
+818,American,Medium,Staten Island,8am-10pm,2.0,false
+819,Japanese,Expensive,Staten Island,8am-10pm,3.2,false
+820,Chinese,Expensive,Queens,8am-10pm,3.9,false
+821,American,Cheap,Queens,8am-10pm,2.7,true
+822,American,Expensive,Staten Island,8am-10pm,4.0,true
+823,Mexican,Medium,Bronx,8am-10pm,2.7,false
+824,Japanese,Cheap,Brooklyn,8am-10pm,2.2,true
+825,Japanese,Expensive,Bronx,8am-10pm,4.8,false
+826,Italian,Medium,Queens,8am-10pm,4.3,false
+827,Japanese,Medium,Manhattan,8am-10pm,3.4,true
+828,Mexican,Expensive,Manhattan,8am-10pm,1.8,false
+829,American,Expensive,Manhattan,8am-10pm,1.6,true
+830,Japanese,Cheap,Brooklyn,8am-10pm,2.5,false
+831,American,Cheap,Brooklyn,8am-10pm,1.0,true
+832,Mexican,Expensive,Manhattan,8am-10pm,4.0,false
+833,Chinese,Cheap,Bronx,8am-10pm,1.7,true
+834,American,Medium,Queens,8am-10pm,3.7,false
+835,American,Cheap,Brooklyn,8am-10pm,3.2,false
+836,Japanese,Medium,Staten Island,8am-10pm,4.3,false
+837,Chinese,Expensive,Staten Island,8am-10pm,3.3,true
+838,Japanese,Medium,Brooklyn,8am-10pm,4.8,false
+839,Japanese,Expensive,Staten Island,8am-10pm,1.4,true
+840,American,Expensive,Brooklyn,8am-10pm,1.3,false
+841,American,Medium,Manhattan,8am-10pm,4.1,false
+842,Chinese,Cheap,Manhattan,8am-10pm,4.0,true
+843,Mexican,Medium,Staten Island,8am-10pm,1.8,false
+844,American,Expensive,Bronx,8am-10pm,1.8,false
+845,Italian,Cheap,Staten Island,8am-10pm,3.4,false
+846,Japanese,Cheap,Staten Island,8am-10pm,1.0,true
+847,Italian,Expensive,Bronx,8am-10pm,4.5,false
+848,Japanese,Cheap,Staten Island,8am-10pm,1.2,true
+849,American,Medium,Staten Island,8am-10pm,4.5,true
+850,Mexican,Expensive,Queens,8am-10pm,1.2,false
+851,Chinese,Cheap,Staten Island,8am-10pm,4.4,true
+852,Japanese,Expensive,Bronx,8am-10pm,1.8,false
+853,Mexican,Medium,Queens,8am-10pm,3.1,false
+854,Chinese,Expensive,Brooklyn,8am-10pm,1.8,true
+855,Japanese,Expensive,Brooklyn,8am-10pm,3.6,false
+856,Japanese,Expensive,Staten Island,8am-10pm,2.6,true
+857,Mexican,Medium,Staten Island,8am-10pm,2.5,true
+858,Italian,Cheap,Staten Island,8am-10pm,2.0,false
+859,Italian,Cheap,Bronx,8am-10pm,2.7,false
+860,Mexican,Cheap,Queens,8am-10pm,1.3,true
+861,Italian,Medium,Queens,8am-10pm,4.3,false
+862,Japanese,Cheap,Bronx,8am-10pm,4.0,false
+863,Mexican,Cheap,Bronx,8am-10pm,3.5,false
+864,Italian,Expensive,Bronx,8am-10pm,3.7,false
+865,Mexican,Cheap,Bronx,8am-10pm,4.6,false
+866,Japanese,Cheap,Bronx,8am-10pm,1.0,true
+867,Chinese,Cheap,Staten Island,8am-10pm,2.4,true
+868,Mexican,Cheap,Brooklyn,8am-10pm,3.1,true
+869,Japanese,Cheap,Bronx,8am-10pm,3.0,true
+870,Mexican,Expensive,Brooklyn,8am-10pm,4.2,true
+871,Japanese,Expensive,Bronx,8am-10pm,4.9,false
+872,Chinese,Expensive,Bronx,8am-10pm,4.5,true
+873,Japanese,Medium,Manhattan,8am-10pm,1.8,true
+874,Japanese,Medium,Manhattan,8am-10pm,1.8,true
+875,Mexican,Medium,Bronx,8am-10pm,4.9,true
+876,Italian,Medium,Manhattan,8am-10pm,2.0,false
+877,Chinese,Cheap,Queens,8am-10pm,3.8,true
+878,Japanese,Expensive,Queens,8am-10pm,4.0,false
+879,Mexican,Cheap,Bronx,8am-10pm,2.8,false
+880,American,Expensive,Bronx,8am-10pm,3.9,true
+881,Japanese,Expensive,Bronx,8am-10pm,2.1,true
+882,Japanese,Cheap,Manhattan,8am-10pm,1.5,true
+883,American,Expensive,Manhattan,8am-10pm,1.4,true
+884,Chinese,Expensive,Bronx,8am-10pm,1.4,false
+885,Japanese,Expensive,Brooklyn,8am-10pm,2.8,false
+886,Japanese,Expensive,Brooklyn,8am-10pm,1.3,true
+887,Chinese,Medium,Brooklyn,8am-10pm,1.3,false
+888,American,Cheap,Bronx,8am-10pm,1.2,false
+889,Italian,Medium,Staten Island,8am-10pm,1.2,false
+890,Italian,Cheap,Manhattan,8am-10pm,4.2,true
+891,American,Expensive,Manhattan,8am-10pm,4.8,true
+892,Mexican,Expensive,Bronx,8am-10pm,1.7,true
+893,Italian,Expensive,Bronx,8am-10pm,2.7,true
+894,Chinese,Expensive,Manhattan,8am-10pm,4.8,true
+895,Chinese,Expensive,Brooklyn,8am-10pm,1.9,false
+896,Italian,Medium,Staten Island,8am-10pm,3.4,true
+897,American,Expensive,Bronx,8am-10pm,4.2,true
+898,American,Cheap,Staten Island,8am-10pm,1.2,true
+899,American,Expensive,Brooklyn,8am-10pm,1.5,false
+900,Mexican,Expensive,Brooklyn,8am-10pm,2.4,false
+901,Japanese,Cheap,Manhattan,8am-10pm,4.9,true
+902,Italian,Medium,Staten Island,8am-10pm,1.7,true
+903,Mexican,Expensive,Brooklyn,8am-10pm,3.5,true
+904,Mexican,Expensive,Bronx,8am-10pm,2.6,true
+905,American,Medium,Staten Island,8am-10pm,2.6,true
+906,Japanese,Cheap,Brooklyn,8am-10pm,3.7,true
+907,American,Medium,Queens,8am-10pm,1.7,false
+908,Italian,Cheap,Staten Island,8am-10pm,2.2,true
+909,Italian,Medium,Manhattan,8am-10pm,4.2,true
+910,American,Cheap,Queens,8am-10pm,3.9,false
+911,Japanese,Expensive,Brooklyn,8am-10pm,4.4,true
+912,Mexican,Medium,Queens,8am-10pm,4.9,true
+913,American,Cheap,Brooklyn,8am-10pm,1.4,true
+914,Chinese,Expensive,Staten Island,8am-10pm,4.2,false
+915,Chinese,Medium,Bronx,8am-10pm,4.8,false
+916,Japanese,Cheap,Manhattan,8am-10pm,1.5,true
+917,Chinese,Expensive,Brooklyn,8am-10pm,3.6,true
+918,American,Expensive,Queens,8am-10pm,4.2,false
+919,American,Expensive,Staten Island,8am-10pm,1.1,false
+920,American,Cheap,Staten Island,8am-10pm,4.1,false
+921,Chinese,Cheap,Staten Island,8am-10pm,4.3,false
+922,Mexican,Cheap,Manhattan,8am-10pm,1.9,true
+923,Chinese,Expensive,Brooklyn,8am-10pm,1.4,false
+924,Mexican,Medium,Brooklyn,8am-10pm,2.5,true
+925,American,Expensive,Queens,8am-10pm,4.7,true
+926,Japanese,Medium,Queens,8am-10pm,4.9,true
+927,Mexican,Expensive,Brooklyn,8am-10pm,2.3,true
+928,Mexican,Medium,Manhattan,8am-10pm,4.5,true
+929,Italian,Cheap,Staten Island,8am-10pm,2.2,false
+930,Chinese,Expensive,Bronx,8am-10pm,3.0,true
+931,American,Medium,Manhattan,8am-10pm,4.4,true
+932,American,Cheap,Manhattan,8am-10pm,1.5,false
+933,American,Cheap,Bronx,8am-10pm,2.5,true
+934,Italian,Medium,Bronx,8am-10pm,4.1,true
+935,Japanese,Cheap,Queens,8am-10pm,2.0,true
+936,Chinese,Expensive,Staten Island,8am-10pm,2.2,true
+937,Japanese,Medium,Brooklyn,8am-10pm,2.3,true
+938,Mexican,Medium,Brooklyn,8am-10pm,3.8,true
+939,American,Medium,Manhattan,8am-10pm,4.9,true
+940,Japanese,Medium,Brooklyn,8am-10pm,1.6,true
+941,American,Medium,Brooklyn,8am-10pm,4.2,true
+942,Italian,Medium,Queens,8am-10pm,2.4,true
+943,Japanese,Cheap,Brooklyn,8am-10pm,3.0,true
+944,Mexican,Medium,Queens,8am-10pm,4.0,true
+945,Japanese,Cheap,Bronx,8am-10pm,4.3,false
+946,American,Cheap,Brooklyn,8am-10pm,3.9,true
+947,Italian,Medium,Queens,8am-10pm,1.6,false
+948,Japanese,Medium,Manhattan,8am-10pm,3.4,false
+949,Japanese,Cheap,Bronx,8am-10pm,1.3,false
+950,Chinese,Medium,Staten Island,8am-10pm,3.6,true
+951,American,Medium,Staten Island,8am-10pm,3.9,false
+952,Chinese,Cheap,Bronx,8am-10pm,2.3,true
+953,Chinese,Cheap,Staten Island,8am-10pm,2.8,true
+954,Mexican,Expensive,Queens,8am-10pm,2.6,true
+955,Chinese,Medium,Staten Island,8am-10pm,3.0,true
+956,Italian,Medium,Manhattan,8am-10pm,2.5,true
+957,Italian,Expensive,Brooklyn,8am-10pm,2.7,true
+958,Chinese,Medium,Bronx,8am-10pm,4.1,true
+959,American,Medium,Bronx,8am-10pm,2.4,true
+960,Japanese,Medium,Brooklyn,8am-10pm,2.0,true
+961,Italian,Medium,Manhattan,8am-10pm,4.9,false
+962,Mexican,Expensive,Manhattan,8am-10pm,2.1,true
+963,Mexican,Expensive,Staten Island,8am-10pm,1.0,true
+964,Mexican,Expensive,Brooklyn,8am-10pm,1.6,false
+965,Japanese,Medium,Brooklyn,8am-10pm,4.9,true
+966,Mexican,Expensive,Manhattan,8am-10pm,1.2,false
+967,Italian,Medium,Manhattan,8am-10pm,5.0,false
+968,Mexican,Cheap,Manhattan,8am-10pm,2.8,true
+969,Chinese,Cheap,Queens,8am-10pm,2.5,false
+970,American,Expensive,Staten Island,8am-10pm,3.7,false
+971,Mexican,Expensive,Queens,8am-10pm,3.5,true
+972,Mexican,Expensive,Bronx,8am-10pm,4.5,false
+973,Chinese,Medium,Queens,8am-10pm,4.1,false
+974,American,Expensive,Brooklyn,8am-10pm,3.8,true
+975,Chinese,Expensive,Queens,8am-10pm,4.6,false
+976,American,Cheap,Queens,8am-10pm,2.1,false
+977,Chinese,Cheap,Staten Island,8am-10pm,4.8,true
+978,American,Medium,Queens,8am-10pm,1.7,false
+979,Italian,Expensive,Queens,8am-10pm,2.5,true
+980,Italian,Medium,Queens,8am-10pm,2.7,false
+981,Mexican,Expensive,Bronx,8am-10pm,3.7,true
+982,Italian,Medium,Bronx,8am-10pm,5.0,true
+983,Mexican,Cheap,Queens,8am-10pm,4.2,true
+984,Italian,Expensive,Brooklyn,8am-10pm,5.0,false
+985,Japanese,Cheap,Brooklyn,8am-10pm,2.3,true
+986,Chinese,Medium,Brooklyn,8am-10pm,3.0,false
+987,Japanese,Cheap,Brooklyn,8am-10pm,4.9,false
+988,Chinese,Medium,Staten Island,8am-10pm,4.7,false
+989,American,Medium,Staten Island,8am-10pm,1.2,true
+990,American,Cheap,Queens,8am-10pm,3.0,true
+991,Chinese,Expensive,Brooklyn,8am-10pm,2.4,true
+992,Chinese,Cheap,Bronx,8am-10pm,1.9,false
+993,Japanese,Medium,Brooklyn,8am-10pm,1.2,true
+994,Japanese,Cheap,Staten Island,8am-10pm,3.2,false
+995,Chinese,Cheap,Manhattan,8am-10pm,1.1,true
+996,Italian,Expensive,Bronx,8am-10pm,4.8,true
+997,Chinese,Expensive,Manhattan,8am-10pm,3.5,true
+998,Italian,Medium,Queens,8am-10pm,1.2,true
+999,Japanese,Expensive,Manhattan,8am-10pm,3.2,true
+1000,American,Medium,Manhattan,8am-10pm,1.3,false
